@@ -1,0 +1,14 @@
+{
+  "config": {
+      "encoding":"LINEAR16",
+      "sampleRateHertz": 44100,
+      "languageCode": "en-US",
+      "enableWordTimeOffsets": false,
+      "enableAutomaticPunctuation": true,
+      "maxAlternatives": 5,
+      "profanityFilter": false
+  },
+  "audio": {
+      "uri":"gs://vq-audio-test/mono-0.9753708491130251boone-2.wav"
+  }
+}
